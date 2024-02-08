@@ -1,0 +1,157 @@
+/* ----------------header-------------------------- */
+#header{
+    background-color: rgb(69, 64, 64);
+    height: 100px;
+    width: 109rem;
+    border: 1px solid #ccc;
+}
+/* ----------------Div logo------------------------ */
+.logo{
+    font-size: 30px;
+    margin-left: 200px;
+    padding-top: 30px;
+    color:white;
+}
+/* -----------------span----------------------- */
+.span1{
+    color:red;
+}
+.span2{
+    color: red;
+}
+/* ---------------nav ul------------------------------- */
+nav ul {
+    list-style: none;
+    margin-top: -20px;
+    margin-left: 30rem;
+}
+/* ----------------nav ul li--------------------------------- */
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    font-size: 20px;
+}
+/* ------------------nav a-------------------------- */
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+/* ---------------Button--------------------------- */
+.letstalk{
+    float: right;
+    margin-right: 25rem;
+    margin-top: -3rem;
+    border: 2px solid red;
+    height: 3rem;
+    width: 9rem;
+    border-radius: 3px;
+    background-color: transparent;
+    color: white;
+}
+/* ----------------------Hero section--------------------------- */
+.hero-section{
+    background-color: rgb(41, 38, 38);
+    height: 50rem;
+    width: 109rem;
+}
+/* -------------Hero section Div 1----------------------------- */
+.hsdiv1{
+    padding-top: 17rem;
+    padding-left: 14rem;
+    color: white;
+    font-size: 23px;
+}
+/* ---------------Hero section div 1 --------------------------- */
+.hsd1{
+    padding-left: 40px;
+}
+/* -----------------Hero section Div 1 H1------------------------------- */
+.hsdh1{
+    font-size: 50px;
+}
+/*--------------Hero section span------------------------ */
+.hss{
+    color: red;
+}
+/* ------------Hero section div 2----------------------------- */
+.hsd2{
+    margin-left: 15.5rem;
+}
+/* -------------Hero section div 2 button--------------------------------- */
+.hsd2b{
+    border: 2px;
+    height: 3rem;
+    width: 12rem;
+    border-radius: 3px;
+    background-color: red;
+    color: white;        
+}
+/* --------------------Hero section div img--------------------------------- */
+.hsdimg1{
+    float: right;
+    margin-top: -25rem;
+    margin-right: 35rem;
+    rotate: 1deg;
+}
+.hsdimg{
+    height: 28rem;
+    width: 23rem;
+    border-radius: 6%;
+}
+/* ---------------------Hero section div p------------------------------ */
+.hsdp1{
+    font-size: 8rem;
+    margin-left: 70rem;
+    margin-top: -30rem;
+    color: #3f3b3b;
+    
+}
+.hsdp{
+    transform: rotate(-90.2deg);
+    white-space: nowrap;
+    display: inline-block;
+}
+/* ------------------Section 1--------------------------------- */
+.section1{
+    background-color: rgb(69, 64, 64);
+    height: 40rem;
+    width: 109rem;
+    padding-top: 30px;
+}
+.s1div{
+    margin-left: 20rem;
+    border: 1px solid #ccc;
+    margin-top: -30px;
+}
+.s1div ul {
+    list-style: none;
+}
+/* ----------------Section1 Div ul li--------------------------------- */
+.s1div ul li {
+    display: inline;
+    margin-right: 95px;
+    font-size: 30px;
+}
+/* ------------------Sectoin1 div a-------------------------- */
+.s1div a {
+    text-decoration: none;
+    color: #fff;
+}
+/* -------------------Section 1 div 2-------------------------------------- */
+.s1d2{
+  margin-left: 48rem; 
+  margin-top: 10rem;
+}
+.s1d2p1{
+    margin-left: 30px;
+    color: red;
+}
+.s1d2h1{
+    font-size: 40px;
+    margin-top: -10px;
+    color: white;
+}
+.s1d2p2{
+    color: white;
+}
+
